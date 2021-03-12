@@ -1,0 +1,15 @@
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.exe
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.deps.json
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.runtimeconfig.json
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.runtimeconfig.dev.json
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.dll
+C:\Users\whis\Desktop\AES\AES\bin\Debug\netcoreapp3.1\AES.pdb
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.csprojAssemblyReference.cache
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.Form1.resources
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.csproj.GenerateResource.cache
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.AssemblyInfoInputs.cache
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.AssemblyInfo.cs
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.csproj.CoreCompileInputs.cache
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.dll
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.pdb
+C:\Users\whis\Desktop\AES\AES\obj\Debug\netcoreapp3.1\AES.genruntimeconfig.cache
